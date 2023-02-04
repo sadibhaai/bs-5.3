@@ -56,3 +56,8 @@ body {
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
 }
+
+.navbar-primary .bg-light{
+background-color: #1da1f2;
+color: #1da1f2;
+}
