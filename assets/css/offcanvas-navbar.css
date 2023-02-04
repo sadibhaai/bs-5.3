@@ -18,7 +18,7 @@ body {
     padding-left: 1rem;
     overflow-y: auto;
     visibility: hidden;
-    background-color: mediumslateblue;
+    background-color: #343a40;
     transition: transform .3s ease-in-out, visibility .3s ease-in-out;
   }
   .offcanvas-collapse.open {
@@ -28,7 +28,7 @@ body {
 }
 
 .nav-scroller .nav {
-  color: #007FFF;
+  color: rgba(255, 255, 255, .75);
 }
 
 .nav-scroller .nav-link {
@@ -48,6 +48,5 @@ body {
 }
 
 .bg-purple {
-  background-color: #343A40;
+  background-color: #6f42c1;
 }
-
